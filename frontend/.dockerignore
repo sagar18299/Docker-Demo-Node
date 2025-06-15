@@ -1,0 +1,10 @@
+node_modules
+dist
+# Ignore build artifacts
+
+npm-debug.log
+dockerfile
+# Ignore npm debug logs and Dockerfile
+docker-compose.yml
+
+.dockerignore
